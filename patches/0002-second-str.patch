@@ -1,0 +1,25 @@
+From 40843ea3234df68f57b2606702a10afdcd4b9be2 Mon Sep 17 00:00:00 2001
+From: Rita Egorkina <margo.egorkina@yandex.ru>
+Date: Wed, 14 Oct 2026 16:03:44 +0300
+Subject: [PATCH 2/2] second str
+
+---
+ info.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/info.txt b/info.txt
+index bd6f098..d358590 100644
+--- a/info.txt
++++ b/info.txt
+@@ -9,4 +9,5 @@
+ Здравствуйте, я второй разраб
+ Здравствуйте, я разраб 3
+ 
+-Первая дополнительная строка
+\ No newline at end of file
++Первая дополнительная строка
++Вторая дополнительная строка
+\ No newline at end of file
+-- 
+2.47.0.windows.1
+
